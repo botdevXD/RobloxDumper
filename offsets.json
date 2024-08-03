@@ -1,0 +1,63 @@
+{
+  "Datamodel_1": 280,
+  "Datamodel_2": 408,
+  "datamodel": {
+    "placeId": 360,
+    "GameLoaded": 1176
+  },
+  "Workspace": {
+    "CurrentCamera": 1048
+  },
+  "VisualEngine": {
+    "Engine": 16,
+    "ViewMatrix": 1200
+  },
+  "Instance": {
+    "size": 8,
+    "Children": 80,
+    "Name": 72,
+    "Parent": 96,
+    "ClassName": 8,
+    "ClassDescripter": 24,
+    "Primitive": 336,
+    "BasePart": {
+      "Position": 320,
+      "CFrame": 284,
+      "Velocity": 404,
+      "RotVelocity": 344,
+      "Size": 632
+    },
+    "Model": {
+      "CharacterHead": 552
+    },
+    "InstanceValue": {
+      "Value": 192
+    }
+  },
+  "Camera": {
+    "Position": 616,
+    "Rotation": 208,
+    "ViewPortSize": 712,
+    "CFrame": 392
+  },
+  "GUIService": {
+    "Inset": 244
+  },
+  "Player": {
+    "LocalPlayer": 256,
+    "Character": 664,
+    "UserId": 480,
+    "DisplayName": 216,
+    "Team": 464,
+    "CharacterInstance": {
+      "Humanoid": {
+        "Health": 388,
+        "MaxHealth": 420,
+        "WalkSpeed": 448,
+        "WalkSpeedCheck": 920,
+        "JumpPower": 416,
+        "HipHeight": 400
+      }
+    }
+  }
+}
